@@ -1,0 +1,9 @@
+body{
+  background-color: #FFDFD3;
+}
+h1{
+  color: #fb6f92;
+}
+table:hover{
+  background-color: red;
+}
